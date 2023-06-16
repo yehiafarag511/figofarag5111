@@ -1,0 +1,57 @@
+body{
+    background-color: aliceblue;
+}
+.row .mynav{
+    margin-top: 200px;
+}
+
+ .ooo{
+width: 100% !important;
+ background-color: aliceblue;
+  position: fixed !important;
+  z-index: 44 !important;
+  justify-content: space-around !important;
+}
+.myimg img{
+    margin-top: 30px !important;
+
+}
+.myimg{
+    margin-top: 100px;
+}
+ .btn .btnn{
+    text-align: end !important;
+    margin-right: 200px !important;
+} 
+ .ulul{
+    margin-left: 10px !important;
+} 
+.ooo .aa a{
+    margin-left: 150px !important;
+}
+.blue{
+    background-color: blue !important;
+    border-radius: 5px !important;
+}
+.moo{
+    margin-top: 30px !important;
+}
+.sara a{
+    text-decoration-line: none;
+   
+}
+.sara{
+    justify-content: space-between !important;
+    
+}
+.foter{
+    background-color:beige;
+    width: 100%;
+   
+}
+.foter ul li,h6 {
+    list-style:none;
+   margin: 5px !important;
+    text-align: center !important;
+}
+
